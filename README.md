@@ -4,3 +4,4 @@
 
 # hour 1
   # figuring out how to use expo and react native to create an app
+  # switching to android studio
